@@ -2,6 +2,9 @@
 
 This repository contains a Python script that demonstrates how to calculate the yield strength of a specified alloy composition using the Thermo-Calc Python (tc_python) API. It sets up the thermodynamic system, selects the property model, configures the required parameters, and prints out the available results.
 
+![thermocalc_yield_strength](https://github.com/user-attachments/assets/9127cdf4-6a3c-42fe-878e-c2b129ecd4eb)
+
+
 ## Features
 
 - **Thermo-Calc Integration:** Utilize the tc_python API to access the TCHEA6 database and perform property model calculations.
