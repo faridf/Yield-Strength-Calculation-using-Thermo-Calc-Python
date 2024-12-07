@@ -26,7 +26,7 @@ This repository contains a Python script that demonstrates how to calculate the 
 
 2. **Clone This Repository:**
    ```bash
-   git clone https://github.com/<your-username>/yield-strength-calculation.git
+   git clone https://github.com/faridf/yield-strength-calculation.git
    cd yield-strength-calculation
    ```
 3. **(Optional) Create a Virtual Environment:**
