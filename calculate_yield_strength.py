@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Script Name: calculate_yield_strength.py
-Author: [Your Name]
-Date: [YYYY-MM-DD]
+Author: farid fattahpour
+Date: [2024-12-06]
 Description:
     This script uses the Thermo-Calc Python (tc_python) library to calculate 
     the yield strength of an alloy at a given temperature and composition. 
